@@ -2,6 +2,8 @@
 
 ---
 
+**注意**：此模型的baseline是[bubbliiiing](https://github.com/bubbliiiing)这个up主的yolov5模型。
+
 # 目录
 
 1. [information](#information)
@@ -31,13 +33,7 @@ conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11
 
 # 数据集及权值
 
-训练所需的权值可在百度网盘中下载。  
-链接: https://pan.baidu.com/s/1gPDsDVX1lbcSNqCKsvzz0A   
-提取码: 3mjs   
-
-VOC数据集下载地址如下，里面已经包括了训练集、测试集、验证集（与测试集一样），无需再次划分：  
-链接: https://pan.baidu.com/s/19Mw2u_df_nBzsC2lg20fQA    
-提取码: j5ge   
+详情，请前往B导的GitHub：https://github.com/bubbliiiing/efficientnet-yolo3-pytorch
 
 # 模型使用
 
