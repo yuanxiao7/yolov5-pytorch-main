@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ffab73e9-6254-4af8-8315-f7cadcef12fe" name="hlh (project level)">
+        <fileTransfer rootFolder="/home/lcx" accessType="SFTP" host="172.25.6.99" port="22" sshConfigId="9318262b-0864-4bd0-a731-64f202c786b0" sshConfig="hlh">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
